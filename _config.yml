@@ -26,9 +26,9 @@ author:
   avatar           : "hwang-siyoung.jpg"
   name             : "Sean Hwang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD student at Brandeis University"
   location         : #"Earth"
-  employer         : "Brandeis University"
+  employer         : #"Brandeis University"
   uri              : # URL
   email            : "siyounghwang@brandeis.edu" 
 
