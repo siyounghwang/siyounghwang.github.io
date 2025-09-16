@@ -24,12 +24,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      {% if post.paperurl %}
-        <a href="{{ post.paperurl }}">
-          {{ title }}
-          <br><span class="archive__item-download">Download Paper</span>
-        </a>
-      {% elsif post.link %}
+      {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a>
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">
           <i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span>
@@ -45,19 +40,14 @@
       </p>
     {% endif %}
 
-    {%- comment -%} TEACHING: no date shown {%- endcomment -%}
     {% if post.collection == 'teaching' %}
       <p>{{ post.type }}{% if post.venue %}, <i>{{ post.venue }}</i>{% endif %}</p>
-
-    {%- comment -%} PUBLICATIONS: no date shown; supports publine override {%- endcomment -%}
     {% elsif post.collection == 'publications' %}
       {% if post.publine %}
         <p>{{ post.publine }}</p>
       {% elsif post.venue %}
         <p>Published in <i>{{ post.venue }}</i></p>
       {% endif %}
-
-    {%- comment -%} For all other collections/posts, don't print any date line {%- endcomment -%}
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -68,9 +58,7 @@
       </p>
     {% endif %}
 
-    {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% endif %}
+    {# ————— IMPORTANT: removed all the “Download Paper/Slides/Bibtex” blocks here ————— #}
 
   </article>
 </div>
