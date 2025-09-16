@@ -26,8 +26,8 @@ main:
   - title: "CV"
     url: /files/Sean_Hwang_CV.pdf
     
-  # - title: "CV"
-  #   url: /cv-json/
+  - title: "Teaching Statement"
+    url: /files/Teaching_Statement_Sean_Hwang.pdf
     
   #- title: "Guide"
   #  url: /markdown/
