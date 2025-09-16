@@ -4,7 +4,7 @@ collection: publications
 category: working_papers 
 permalink: /publication/paper-title-number-2 
 excerpt: 'This paper shows that the Korea–US Free Trade Agreement increased U.S. auto imports from Korea by $4.8 billion annually and reduced U.S. agricultural exports by $0.7 billion. Using synthetic controls, I find that the FTA shifted trade toward less global value chain (GVC) intensive forms: auto imports rose in both GVC and non-GVC trade, while agriculture exports saw a decline in GVC trade and a rise in non-GVC trade. These results highlight that focusing only on trade volumes overlooks how FTAs reshape the structure of global value chain participation.' 
-# date: 2015-10-01 
+date: 2024-10-01 
 # venue: 'Journal 1' 
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf' 
 paperurl: /files/korus.pdf 

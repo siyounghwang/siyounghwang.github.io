@@ -4,7 +4,7 @@ collection: publications
 category: working_papers 
 permalink: /publication/paper-title-number-3
 excerpt: 'This study analyzes the economic implications of achieving global net zero emissions by 2050, with emphasis on Asia and the Pacific. Using the Global Trade-Environment Model (GTEM), we simulate decarbonization and trade-related policy scenarios to assess impacts on output, employment, investment, and trade. Results show that while the transition requires major shifts in energy, production, and investment, the overall GDP costs are modest compared with the risks of inaction. Trade plays a pivotal role by enabling technology diffusion and supporting cooperative policies such as carbon border adjustments and environmental goods liberalization.' 
-# date: 2015-10-01 
+date: 2024-10-01 
 # venue: 'Journal 1' 
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf' 
 paperurl: /files/Transition to Net Zero Aug 31.pdf 
