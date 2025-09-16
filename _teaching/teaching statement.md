@@ -2,8 +2,8 @@
 title: "Teaching Statement"
 collection: teaching
 #type: "Graduate course"
-permalink: /files/Teaching_Statement_Sean_Hwang
+permalink: /files/Teaching_Statement_Sean_Hwang.pdf
 #venue: "Brandeis University, Economics"
-date: 2025-01-01
+#date: 2025-01-01
 #location: "City, Country"
 ---
