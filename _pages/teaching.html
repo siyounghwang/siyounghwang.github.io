@@ -7,14 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-<p>
-  <a href="{{ '/files/Sean_Hwang_Teaching_Statement.pdf' | relative_url }}"
-     target="_blank" rel="noopener">
-    📄 Download Teaching Statement (PDF)
-  </a>
-</p>
-
-
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
