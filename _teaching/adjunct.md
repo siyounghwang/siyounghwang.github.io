@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 #permalink: /teaching/2014-spring-teaching-1
 venue: "Brandeis University, Economics"
-#date: 2025-01-01
+date: 2025
 #location: "City, Country"
 ---
 - International Trade Policy and Institutions
