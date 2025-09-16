@@ -3,11 +3,11 @@ title: "What is the Eﬀect of the Korea-US Free Trade Agreement on Global Value
 collection: publications 
 category: working_papers 
 permalink: /publication/paper-title-number-2 
-excerpt: 'Job Market PaperThis paper examines the impact of the Trump administration’s tariffs on global carbon emissions using a global computable general equilibrium framework. I find that emissions decline overall, not primarily from reduced trade, but through technique effects that raise the renewable share of power generation and encourage substitution away from fossil fuels. The results show that trade policy can interact with climate policy in unexpected ways, at times accelerating the shift to cleaner production.' 
+excerpt: 'This paper shows that the Korea–US Free Trade Agreement increased U.S. auto imports from Korea by $4.8 billion annually and reduced U.S. agricultural exports by $0.7 billion. Using synthetic controls, I find that the FTA shifted trade toward less global value chain (GVC) intensive forms: auto imports rose in both GVC and non-GVC trade, while agriculture exports saw a decline in GVC trade and a rise in non-GVC trade. These results highlight that focusing only on trade volumes overlooks how FTAs reshape the structure of global value chain participation.' 
 # date: 2015-10-01 
 # venue: 'Journal 1' 
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf' 
-paperurl: /files/paper2.pdf 
+paperurl: /files/korus.pdf 
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib' 
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).' 
 --- 

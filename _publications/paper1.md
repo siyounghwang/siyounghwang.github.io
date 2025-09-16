@@ -3,13 +3,13 @@ title: "How Do The Trump Tariffs Affect Carbon Emissions?"
 collection: publications 
 category: working_papers 
 permalink: /publication/paper-title-number-1 
-excerpt: | 
-**Job Market Paper**
-This paper examines the impact of the Trump administration’s tariffs on global carbon emissions using a global computable general equilibrium framework. I find that emissions decline overall, not primarily from reduced trade, but through technique effects that raise the renewable share of power generation and encourage substitution away from fossil fuels. The results show that trade policy can interact with climate policy in unexpected ways, at times accelerating the shift to cleaner production.' 
+excerpt: |
+  **Job Market Paper** 
+  This paper examines the impact of the Trump administration’s tariffs on global carbon emissions using a global computable general equilibrium framework. I find that emissions decline overall, not primarily from reduced trade, but through technique effects that raise the renewable share of power generation and encourage substitution away from fossil fuels. The results show that trade policy can interact with climate policy in unexpected ways, at times accelerating the shift to cleaner production. 
 # date: 2015-10-01 
 # venue: 'Journal 1' 
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf' 
-paperurl: /files/paper1.pdf 
+paperurl: /files/jmp.pdf 
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib' 
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).' 
 --- 
