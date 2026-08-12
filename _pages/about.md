@@ -7,4 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in International Economics and Finance at Brandeis University, researching how trade policy and global value chains intersect with environmental sustainability. My work examines the effects of the Korea–US Free Trade Agreement on global value chain participation and investigates the role of tariffs and broader trade policies in advancing Net Zero Emissions goals. I have taught graduate courses on trade policy, econometrics with R, and communication in economics, and served as a teaching assistant for courses in macroeconomics, development, and principles of economics.
++I am a postdoctoral researcher in international economics, working at the intersection of trade policy and geoeconomics, with a focus on global value chains. I received my Ph.D. in International Economics and Finance from Brandeis University.
++
++My research examines how trade policy reshape production networks and its implications. One strand of my work estimates the effects of the Korea–US Free Trade Agreement on global value chain participation; another investigates the role of tariffs and broader trade policy instruments in advancing Net Zero Emissions goals.
++
++Alongside my research, I have taught graduate courses on trade policy, econometrics with R, and communication in economics, and I have served as a teaching assistant in macroeconomics, development economics, and principles of economics.
++
++Please feel free to get in touch — my contact information is in the sidebar, and my CV is available [here](/cv/).
