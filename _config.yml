@@ -26,11 +26,11 @@ author:
   avatar           : "hwang-siyoung.jpg"
   name             : "Sean Hwang"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at Brandeis University"
+  bio              : "Postdoctoral Researcher"
   location         : #"Waltham, MA"
-  employer         : "Brandeis University"
+  employer         : "Dartmouth College"
   uri              : # URL
-  email            : "siyounghwang@brandeis.edu" 
+  email            : "Sean.Hwang@dartmouth.edu" 
 
   # Academic websites
   academia         : # URL
