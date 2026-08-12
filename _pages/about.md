@@ -13,4 +13,4 @@ My research examines how trade policy reshapes production networks, and what tho
 
 Alongside my research, I have taught graduate courses on trade policy, econometrics with R, and communication in economics, and I have served as a teaching assistant in macroeconomics, development economics, and principles of economics.
 
-Please feel free to get in touch — my contact information is in the sidebar, and my CV is available [here](/cv/).
+Please feel free to get in touch!
